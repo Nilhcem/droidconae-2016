@@ -86,4 +86,12 @@
 	"speakersId": [12],
 	"title": "State of Android Testing Support Library",
 	"description": "Testing in the Android Platform used to be hard, but not now.\n\nThe Android Testing Support Library provides an extensive framework for testing Android apps. In this talk we will go through the main features like the new instrumentation test runner. Then we will cover Espresso and advanced topics like espresso-intents and idling resources. Finally we will see UI Automator, testing framework suitable for cross-app functional UI testing across system and installed apps"
+}, {
+	"id": 12,
+	"startAt": "2016-03-26 23:00",
+	"duration": 60,
+	"roomId": 1,
+	"speakersId": [13, 6],
+	"title": "Android N hands-on",
+	"description": "Android N Preview was announced on 9th of March. Join us in this workshop to go hands-on with some of the latest features for developers released in this version. We'll be going over:\n\n* Multi-window support\n* Notification enhancements\n* Quick Settings Tile API\n* Multi-locale support\n* Scoped directory access"
 }]
