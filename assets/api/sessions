@@ -1,6 +1,6 @@
 [{
   "id": 1,
-  "startAt": "2016-03-25 9:30",
+  "startAt": "2016-03-25 09:30",
   "duration": 30,
   "roomId": 0,
   "speakersId": null,
