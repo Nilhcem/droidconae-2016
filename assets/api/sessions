@@ -1,97 +1,177 @@
 [{
-	"id": 1,
-	"startAt": "2016-03-26 11:00",
-	"duration": 60,
-	"roomId": 1,
-	"speakersId": [1, 11],
-	"title": "Survival of the Continuist",
-	"description": "A deep dive into Jenkins Continuous Integration, how you can enable your team to collaborate more, run tests and configure the robots to do all the things for you. Also talking about caveats around automation, testing on real devices, usb hub woes and more."
+  "id": 1,
+  "startAt": "2016-03-25 9:30",
+  "duration": 30,
+  "roomId": 0,
+  "speakersId": null,
+  "title": "Opening and registration",
+  "description": null
 }, {
-	"id": 2,
-	"startAt": "2016-03-25 15:10",
-	"duration": 50,
-	"roomId": 1,
-	"speakersId": [2],
-	"title": "Using Git like a pro: Shazam's \"master-only\" workflow, other branching strategies and git hacks",
-	"description": "In this talk we will be discussing advanced git techniques, how you can utilize different branching strategies to achieve a rapid workflow depending on the structure of your team (and demonstrating the branching strategy the Android team uses at Shazam), followed by an assortment of 'hacks', or useful tricks, that allow you to optimize the way you work and share code with others."
+  "id": 2,
+  "startAt": "2016-03-25 10:00",
+  "duration": 50,
+  "roomId": 1,
+  "speakersId": [1, 11],
+  "title": "Survival of the Continuist",
+  "description": "A deep dive into Jenkins Continuous Integration, how you can enable your team to collaborate more, run tests and configure the robots to do all the things for you. Also talking about caveats around automation, testing on real devices, usb hub woes and more."
 }, {
-	"id": 3,
-	"startAt": "2016-03-26 10:15",
-	"duration": 45,
-	"roomId": 1,
-	"speakersId": [3],
-	"title": "Test Strategy for native Android and Web and what has changed at Skyscanner",
-	"description": "Skyscanner and its products have improved over the last year. The Android platform has changed significantly as well, and with it Skyscanner's approach to testing for both the web and native apps on Android.\n\nMatteo Doni (@todoleo) will summarise where Skyscanner was last year, what has changed and explore Test Strategy for the rapidly changing ecosystem. From internal test practices to release processes, crowd testing to analytics and dogfooding to automation, Matteo will deliver an overview of how Skyscanner delivers quality software in over 30 languages and working with over 1200 partners.\n\nHumor and the odd cat picture is guaranteed, time will be put aside for a Q&A session at the end. No goats were harmed in the preparation of this session."
+  "id": 3,
+  "startAt": "2016-03-25 11:00",
+  "duration": 50,
+  "roomId": 1,
+  "speakersId": [5],
+  "title": "FillTheForm",
+  "description": "I would like to introduce the tool that helps you to develop and test your apps faster.\n\"Fill out every EditText with just a long press!\"\nThis tool uses the power of AccessibilityService in order to make app development easier. It is possible to fill out every EditText with appropriate data using minimum effort.\n\nBenefits:\n* Significantly speed up your development and testing.\n* You don't have to remember your test data ever again.\n* Eliminate the chance of entering the wrong data (reduces stress).\n\nFillTheForm tool is made for developers and testers and I would like to present it to the Android community. It is published as an open source project on the HRS github:\nhttps://github.com/Hotel-Reservation-Service/FillTheForm\n\nDemo video:\nhttps://www.youtube.com/watch?v=99MNtYpOUlk&feature=youtu.be"
 }, {
-	"id": 4,
-	"startAt": "2016-03-26 23:00",
-	"duration": 60,
-	"roomId": 1,
-	"speakersId": [4],
-	"title": "Android through the Eyes of a Photographer",
-	"description": "How can Android devices and apps support (hobby-)photographers in their work?\n\nI will cover the whole workflow from planning a shooting over taking photos in RAW-format with Android devices, copying photos from a DSLR or mirrorless camera, editing photos in RAW-format (on an Android-device) and creating backups from a camera on an Android device and/or USB-Stick or external HD.\n\nIf you like, join me for a Mini-Photowalk after the show at Burj Khalifa / Water Fountains (don't forget your camera!) :-)"
+  "id": 4,
+  "startAt": "2016-03-25 12:00",
+  "duration": 50,
+  "roomId": 1,
+  "speakersId": [8],
+  "title": "Android Reactive Programming with RxJava",
+  "description": "In a world where there is a smartphone in every pocket, designing and building applications that can run smoothly and deliver the User Experience that users deserve it’s the only way to go. Reactive Programming with RxJava will help you to beat Android Platform limitations to create astonishing Android Apps.\nThis talk will be a practical journey from basic Reactive Programming and Observer Pattern concepts to the main feature of RxJava, with code examples and a real-world app.\nYou will learn how to create an Observable “from scratch”, from a list or from a function you already have in your code base. You will learn how to filter an Observable sequence to create a new sequence containing only the values you want; you will learn how to apply a function to an Observable, how to concatenate or merge Observables. You will learn how to enjoy Schedulers to overcome the threading and concurrency hell in Android.\nI will close the talk with a practical example about RxJava + Retrofit, to easily communicate with a REST API."
 }, {
-	"id": 5,
-	"startAt": "2016-03-25 14:00",
-	"duration": 60,
-	"roomId": 1,
-	"speakersId": [5],
-	"title": "FillTheForm",
-	"description": "I would like to introduce the tool that helps you to develop and test your apps faster.\n\"Fill out every EditText with just a long press!\"\nThis tool uses the power of AccessibilityService in order to make app development easier. It is possible to fill out every EditText with appropriate data using minimum effort.\n\nBenefits:\n* Significantly speed up your development and testing.\n* You don't have to remember your test data ever again.\n* Eliminate the chance of entering the wrong data (reduces stress).\n\nFillTheForm tool is made for developers and testers and I would like to present it to the Android community. It is published as an open source project on the HRS github:\nhttps://github.com/Hotel-Reservation-Service/FillTheForm\n\nDemo video:\nhttps://www.youtube.com/watch?v=99MNtYpOUlk&feature=youtu.be"
+  "id": 5,
+  "startAt": "2016-03-25 13:00",
+  "duration": 60,
+  "roomId": 0,
+  "speakersId": null,
+  "title": "Lunch",
+  "description": null
 }, {
-	"id": 6,
-	"startAt": "2016-03-25 12:00",
-	"duration": 45,
-	"roomId": 1,
-	"speakersId": [6],
-	"title": "Using APIs in your app",
-	"description": "Recommended APIs to be used in your app and how to use them"
+  "id": 6,
+  "startAt": "2016-03-25 14:00",
+  "duration": 50,
+  "roomId": 1,
+  "speakersId": [3],
+  "title": "Test Strategy for native Android and Web and what has changed at Skyscanner",
+  "description": "Skyscanner and its products have improved over the last year. The Android platform has changed significantly as well, and with it Skyscanner's approach to testing for both the web and native apps on Android.\n\nMatteo Doni (@todoleo) will summarise where Skyscanner was last year, what has changed and explore Test Strategy for the rapidly changing ecosystem. From internal test practices to release processes, crowd testing to analytics and dogfooding to automation, Matteo will deliver an overview of how Skyscanner delivers quality software in over 30 languages and working with over 1200 partners.\n\nHumor and the odd cat picture is guaranteed, time will be put aside for a Q&A session at the end. No goats were harmed in the preparation of this session."
 }, {
-	"id": 7,
-	"startAt": "2016-03-25 17:00",
-	"duration": 30,
-	"roomId": 1,
-	"speakersId": [7],
-	"title": "The 2016 Android Developer Toolbox",
-	"description": "Developing for Android has drastically changed over the last few years.\nWe now have a gigantic toolbox we can benefit from to improve our productivity and build better applications.\n\nDuring this presentation I will introduce some of the tools we use daily at happn, a multi-million users French dating application.\n\nI will talk about many tools that help us to:\n– Simulate a laggy/instable HTTP(s) connection\n– Interact with our application to analyze logs, views, and modify any data (inc. memory / shared preferences / database) in real time\n– Change our application’s backend server without recompiling\n– Better understand our technical debt\n– Create a REST mock server in a few seconds to anticipate the development of a feature when the backend is not developed yet\n– Measure the performance (cpu/memory) of our application\n– Decompile our application to better understand and analyze its security\n– Alter a server response and check whether the application behaves properly\n– and many more tips…"
+  "id": 7,
+  "startAt": "2016-03-25 14:00",
+  "duration": 60,
+  "roomId": 2,
+  "speakersId": [1, 11],
+  "title": "Workshop: Automated Performance Testing (1/2)",
+  "description": "This workshop will provide a guided, tutorial and hands-on coding experience. We will step you through adding performance testing features to an existing Android application.\n\nYou will create a stable and reusable testing harness to run performance tests on a simple existing Android app. The harness will automate the collection of information such as systrace logs, location requests, batterystats, graphics profiling, and more. Test failures will also be logged to files and we'll show you an example of how to write a performance-based test. Wow, that's a lot, right?! Don't worry we will be walking through this step by step, in an easy to understand and straightforward lead by example manner! !!حظا سعيدا :)\nWhat we'll learn together:\n\nHow to quickly navigate some Android Performance tools\nHow the Espresso testing framework can be used to write unit and performance tests\nHow to use MonkeyRunner and Gradle to automate the testing workflow\nHow to review systrace output to understand your app’s performance issues\nWhat are battery statistics\nWhat is graphics profiling\n\nThis workshop will take about 2 hours in total. You will be required to bring your own laptop. Having Android Studio IDE pre-installed and having downloaded the latest build tools and Android SDK.\n\nThe workshop will be managed by Google Developer Expert Paul Blundell and Xavi Rigau"
 }, {
-	"id": 8,
-	"startAt": "2016-03-26 23:00",
-	"duration": 60,
-	"roomId": 1,
-	"speakersId": [8],
-	"title": "Android Reactive Programming with RxJava",
-	"description": "In a world where there is a smartphone in every pocket, designing and building applications that can run smoothly and deliver the User Experience that users deserve it’s the only way to go. Reactive Programming with RxJava will help you to beat Android Platform limitations to create astonishing Android Apps.\nThis talk will be a practical journey from basic Reactive Programming and Observer Pattern concepts to the main feature of RxJava, with code examples and a real-world app.\nYou will learn how to create an Observable “from scratch”, from a list or from a function you already have in your code base. You will learn how to filter an Observable sequence to create a new sequence containing only the values you want; you will learn how to apply a function to an Observable, how to concatenate or merge Observables. You will learn how to enjoy Schedulers to overcome the threading and concurrency hell in Android.\nI will close the talk with a practical example about RxJava + Retrofit, to easily communicate with a REST API."
+  "id": 8,
+  "startAt": "2016-03-25 15:00",
+  "duration": 50,
+  "roomId": 1,
+  "speakersId": [7],
+  "title": "The 2016 Android Developer Toolbox",
+  "description": "Developing for Android has drastically changed over the last few years.\nWe now have a gigantic toolbox we can benefit from to improve our productivity and build better applications.\n\nDuring this presentation I will introduce some of the tools we use daily at happn, a multi-million users French dating application.\n\nI will talk about many tools that help us to:\n– Simulate a laggy/instable HTTP(s) connection\n– Interact with our application to analyze logs, views, and modify any data (inc. memory / shared preferences / database) in real time\n– Change our application’s backend server without recompiling\n– Better understand our technical debt\n– Create a REST mock server in a few seconds to anticipate the development of a feature when the backend is not developed yet\n– Measure the performance (cpu/memory) of our application\n– Decompile our application to better understand and analyze its security\n– Alter a server response and check whether the application behaves properly\n– and many more tips…"
 }, {
-	"id": 9,
-	"startAt": "2016-03-26 23:00",
-	"duration": 60,
-	"roomId": 1,
-	"speakersId": [9],
-	"title": "Crash Wars: The handling awakens",
-	"description": "For years crash handling was one of the worst parts of the Android development process. With each new crash you were risking a lot - getting bad Google Play reviews, negative comments and dissatisfied customers. Nobody likes the \"Unfortunately, your app has crashed\" dialog, but there was only so much you could do about it, beside logging the crash to a remote server.\n\nIn the last couple of months a lot has changed. We've been introduced to brand new tools to help us cope with this problem. During this talk, we'll demonstrate how to use several tools and techniques that have made our lives easier. We'll discuss different ways of predicting crashes even before they occur by means of static code checkers, automatic tests and CI setup. Additionally, we'll show you how to detect memory leaks, explain advanced exception and crash logging by using a combination of several different tools. Finally,  we’ll demonstrate how to provide a better crash experience or hide the crash altogether if the crash is simply inevitable!"
+  "id": 9,
+  "startAt": "2016-03-25 15:00",
+  "duration": 60,
+  "roomId": 2,
+  "speakersId": [11, 1],
+  "title": "Workshop: Automated Performance Testing (2/2)",
+  "description": "This workshop will provide a guided, tutorial and hands-on coding experience. We will step you through adding performance testing features to an existing Android application.\n\nYou will create a stable and reusable testing harness to run performance tests on a simple existing Android app. The harness will automate the collection of information such as systrace logs, location requests, batterystats, graphics profiling, and more. Test failures will also be logged to files and we'll show you an example of how to write a performance-based test. Wow, that's a lot, right?! Don't worry we will be walking through this step by step, in an easy to understand and straightforward lead by example manner! !!حظا سعيدا :)\nWhat we'll learn together:\n\nHow to quickly navigate some Android Performance tools\nHow the Espresso testing framework can be used to write unit and performance tests\nHow to use MonkeyRunner and Gradle to automate the testing workflow\nHow to review systrace output to understand your app’s performance issues\nWhat are battery statistics\nWhat is graphics profiling\n\nThis workshop will take about 2 hours in total. You will be required to bring your own laptop. Having Android Studio IDE pre-installed and having downloaded the latest build tools and Android SDK.\n\nThe workshop will be managed by Google Developer Expert Paul Blundell and Xavi Rigau"
 }, {
-	"id": 10,
-	"startAt": "2016-03-25 16:30",
-	"duration": 60,
-	"roomId": 1,
-	"speakersId": [10],
-	"title": "Can You Read Your Tests? Clean and Useful Android Testing, with JUnit and Spock!",
-	"description": "Have unit tests? How readable are they? How much time do you spend maintaining them? Brittle and time-consuming tests lead to fear, uncertainty, and distrust, and that leads to and eventual disillusionment and abandonment.\n\nThis talk will go over tools and techniques for writing tests that are a pleasure to read, easy to maintain, give you maximum return on the time you invest into them, and will prove their worth time and time again.\n\nWe'll take a look at some example tests that are exhibiting some common issues, such as:\n- readability\n- brittleness: breaking every time the implementation is changed\n- non-obvious cause + solution upon test failure\n- flakiness / unreliability\n- slow execution\n\nWe'll improve these tests in plain JUnit, move on to Hamcrest and AssertJ, and then show how Spock can take us even further to tests that are beautiful, easily maintainable, and incredibly useful.\n\nStop wasting time on bad tests!\n\nThis talk aims to level-up every Android developer's testing know-how and arm them with the tools required to write effective and maintainable tests."
+  "id": 10,
+  "startAt": "2016-03-25 16:00",
+  "duration": 50,
+  "roomId": 1,
+  "speakersId": null,
+  "title": "Blackberry",
+  "description": null
 }, {
-	"id": 11,
-	"startAt": "2016-03-25 14:00",
-	"duration": 60,
-	"roomId": 1,
-	"speakersId": [12],
-	"title": "State of Android Testing Support Library",
-	"description": "Testing in the Android Platform used to be hard, but not now.\n\nThe Android Testing Support Library provides an extensive framework for testing Android apps. In this talk we will go through the main features like the new instrumentation test runner. Then we will cover Espresso and advanced topics like espresso-intents and idling resources. Finally we will see UI Automator, testing framework suitable for cross-app functional UI testing across system and installed apps"
+  "id": 11,
+  "startAt": "2016-03-25 16:00",
+  "duration": 60,
+  "roomId": 2,
+  "speakersId": [1, 11],
+  "title": "Workshop: Automated Performance Testing (1/2)",
+  "description": "This workshop will provide a guided, tutorial and hands-on coding experience. We will step you through adding performance testing features to an existing Android application.\n\nYou will create a stable and reusable testing harness to run performance tests on a simple existing Android app. The harness will automate the collection of information such as systrace logs, location requests, batterystats, graphics profiling, and more. Test failures will also be logged to files and we'll show you an example of how to write a performance-based test. Wow, that's a lot, right?! Don't worry we will be walking through this step by step, in an easy to understand and straightforward lead by example manner! !!حظا سعيدا :)\nWhat we'll learn together:\n\nHow to quickly navigate some Android Performance tools\nHow the Espresso testing framework can be used to write unit and performance tests\nHow to use MonkeyRunner and Gradle to automate the testing workflow\nHow to review systrace output to understand your app’s performance issues\nWhat are battery statistics\nWhat is graphics profiling\n\nThis workshop will take about 2 hours in total. You will be required to bring your own laptop. Having Android Studio IDE pre-installed and having downloaded the latest build tools and Android SDK.\n\nThe workshop will be managed by Google Developer Expert Paul Blundell and Xavi Rigau"
 }, {
-	"id": 12,
-	"startAt": "2016-03-26 23:00",
-	"duration": 60,
-	"roomId": 1,
-	"speakersId": [13, 6],
-	"title": "Android N hands-on",
-	"description": "Android N Preview was announced on 9th of March. Join us in this workshop to go hands-on with some of the latest features for developers released in this version. We'll be going over:\n\n* Multi-window support\n* Notification enhancements\n* Quick Settings Tile API\n* Multi-locale support\n* Scoped directory access"
+  "id": 12,
+  "startAt": "2016-03-25 17:00",
+  "duration": 50,
+  "roomId": 1,
+  "speakersId": [4],
+  "title": "Android through the Eyes of a Photographer",
+  "description": "How can Android devices and apps support (hobby-)photographers in their work?\n\nI will cover the whole workflow from planning a shooting over taking photos in RAW-format with Android devices, copying photos from a DSLR or mirrorless camera, editing photos in RAW-format (on an Android-device) and creating backups from a camera on an Android device and/or USB-Stick or external HD.\n\nIf you like, join me for a Mini-Photowalk after the show at Burj Khalifa / Water Fountains (don't forget your camera!) :-)"
+}, {
+  "id": 13,
+  "startAt": "2016-03-25 17:00",
+  "duration": 60,
+  "roomId": 2,
+  "speakersId": [11, 1],
+  "title": "Workshop: Automated Performance Testing (2/2)",
+  "description": "This workshop will provide a guided, tutorial and hands-on coding experience. We will step you through adding performance testing features to an existing Android application.\n\nYou will create a stable and reusable testing harness to run performance tests on a simple existing Android app. The harness will automate the collection of information such as systrace logs, location requests, batterystats, graphics profiling, and more. Test failures will also be logged to files and we'll show you an example of how to write a performance-based test. Wow, that's a lot, right?! Don't worry we will be walking through this step by step, in an easy to understand and straightforward lead by example manner! !!حظا سعيدا :)\nWhat we'll learn together:\n\nHow to quickly navigate some Android Performance tools\nHow the Espresso testing framework can be used to write unit and performance tests\nHow to use MonkeyRunner and Gradle to automate the testing workflow\nHow to review systrace output to understand your app’s performance issues\nWhat are battery statistics\nWhat is graphics profiling\n\nThis workshop will take about 2 hours in total. You will be required to bring your own laptop. Having Android Studio IDE pre-installed and having downloaded the latest build tools and Android SDK.\n\nThe workshop will be managed by Google Developer Expert Paul Blundell and Xavi Rigau"
+}, {
+  "id": 14,
+  "startAt": "2016-03-26 10:00",
+  "duration": 50,
+  "roomId": 1,
+  "speakersId": [2],
+  "title": "Using Git like a pro: Shazam's \"master-only\" workflow, other branching strategies and git hacks",
+  "description": "In this talk we will be discussing advanced git techniques, how you can utilize different branching strategies to achieve a rapid workflow depending on the structure of your team (and demonstrating the branching strategy the Android team uses at Shazam), followed by an assortment of 'hacks', or useful tricks, that allow you to optimize the way you work and share code with others."
+}, {
+  "id": 15,
+  "startAt": "2016-03-26 11:00",
+  "duration": 50,
+  "roomId": 1,
+  "speakersId": [10],
+  "title": "Can You Read Your Tests? Clean and Useful Android Testing, with JUnit and Spock!",
+  "description": "Have unit tests? How readable are they? How much time do you spend maintaining them? Brittle and time-consuming tests lead to fear, uncertainty, and distrust, and that leads to and eventual disillusionment and abandonment.\n\nThis talk will go over tools and techniques for writing tests that are a pleasure to read, easy to maintain, give you maximum return on the time you invest into them, and will prove their worth time and time again.\n\nWe'll take a look at some example tests that are exhibiting some common issues, such as:\n- readability\n- brittleness: breaking every time the implementation is changed\n- non-obvious cause + solution upon test failure\n- flakiness / unreliability\n- slow execution\n\nWe'll improve these tests in plain JUnit, move on to Hamcrest and AssertJ, and then show how Spock can take us even further to tests that are beautiful, easily maintainable, and incredibly useful.\n\nStop wasting time on bad tests!\n\nThis talk aims to level-up every Android developer's testing know-how and arm them with the tools required to write effective and maintainable tests."
+}, {
+  "id": 16,
+  "startAt": "2016-03-26 12:00",
+  "duration": 50,
+  "roomId": 1,
+  "speakersId": [13, 6],
+  "title": "Android N hands-on",
+  "description": "Android N Preview was announced on 9th of March. Join us in this workshop to go hands-on with some of the latest features for developers released in this version. We'll be going over:\n\n* Multi-window support\n* Notification enhancements\n* Quick Settings Tile API\n* Multi-locale support\n* Scoped directory access"
+}, {
+  "id": 17,
+  "startAt": "2016-03-26 13:00",
+  "duration": 60,
+  "roomId": 0,
+  "speakersId": null,
+  "title": "Lunch",
+  "description": null
+}, {
+  "id": 18,
+  "startAt": "2016-03-26 14:00",
+  "duration": 50,
+  "roomId": 1,
+  "speakersId": null,
+  "title": "Sky",
+  "description": null
+}, {
+  "id": 19,
+  "startAt": "2016-03-26 15:00",
+  "duration": 50,
+  "roomId": 1,
+  "speakersId": [12],
+  "title": "State of Android Testing Support Library",
+  "description": "Testing in the Android Platform used to be hard, but not now.\n\nThe Android Testing Support Library provides an extensive framework for testing Android apps. In this talk we will go through the main features like the new instrumentation test runner. Then we will cover Espresso and advanced topics like espresso-intents and idling resources. Finally we will see UI Automator, testing framework suitable for cross-app functional UI testing across system and installed apps"
+}, {
+  "id": 20,
+  "startAt": "2016-03-26 16:00",
+  "duration": 50,
+  "roomId": 1,
+  "speakersId": [9],
+  "title": "Crash Wars: The handling awakens",
+  "description": "For years crash handling was one of the worst parts of the Android development process. With each new crash you were risking a lot - getting bad Google Play reviews, negative comments and dissatisfied customers. Nobody likes the \"Unfortunately, your app has crashed\" dialog, but there was only so much you could do about it, beside logging the crash to a remote server.\n\nIn the last couple of months a lot has changed. We've been introduced to brand new tools to help us cope with this problem. During this talk, we'll demonstrate how to use several tools and techniques that have made our lives easier. We'll discuss different ways of predicting crashes even before they occur by means of static code checkers, automatic tests and CI setup. Additionally, we'll show you how to detect memory leaks, explain advanced exception and crash logging by using a combination of several different tools. Finally,  we’ll demonstrate how to provide a better crash experience or hide the crash altogether if the crash is simply inevitable!"
+}, {
+  "id": 21,
+  "startAt": "2016-03-26 17:00",
+  "duration": 50,
+  "roomId": 1,
+  "speakersId": null,
+  "title": "Fujitsu",
+  "description": null
+}, {
+  "id": 22,
+  "startAt": "2016-03-26 18:00",
+  "duration": 30,
+  "roomId": 0,
+  "speakersId": null,
+  "title": "Closing",
+  "description": null
 }]
