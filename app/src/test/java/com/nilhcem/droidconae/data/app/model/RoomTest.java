@@ -9,13 +9,13 @@ public class RoomTest {
     @Test
     public void should_get_room_for_a_given_id() {
         // Given
-        int id = Room.TRACK_1.id;
+        int id = Room.MAIN_HALL.id;
 
         // When
         Room result = Room.getFromId(id);
 
         // Then
-        assertThat(result).isEqualTo(Room.TRACK_1);
+        assertThat(result).isEqualTo(Room.MAIN_HALL);
     }
 
     @Test
@@ -33,13 +33,13 @@ public class RoomTest {
     @Test
     public void should_get_room_for_a_given_name() {
         // Given
-        String name = Room.TRACK_1.name;
+        String name = Room.MAIN_HALL.name;
 
         // When
         Room result = Room.getFromName(name);
 
         // Then
-        assertThat(result).isEqualTo(Room.TRACK_1);
+        assertThat(result).isEqualTo(Room.MAIN_HALL);
     }
 
     @Test

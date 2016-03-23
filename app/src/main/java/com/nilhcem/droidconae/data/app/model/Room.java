@@ -5,8 +5,8 @@ import android.support.annotation.NonNull;
 public enum Room {
 
     NONE(0, ""),
-    TRACK_1(1, "Track 1"),
-    TRACK_2(2, "Track 2");
+    MAIN_HALL(1, "Main Hall"),
+    BREAKOUT_ROOM(2, "Breakout Room");
 
     public final int id;
     public final String name;
