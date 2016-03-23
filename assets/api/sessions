@@ -27,9 +27,9 @@
   "startAt": "2016-03-25 12:00",
   "duration": 50,
   "roomId": 1,
-  "speakersId": [8],
-  "title": "Android Reactive Programming with RxJava",
-  "description": "In a world where there is a smartphone in every pocket, designing and building applications that can run smoothly and deliver the User Experience that users deserve it’s the only way to go. Reactive Programming with RxJava will help you to beat Android Platform limitations to create astonishing Android Apps.\nThis talk will be a practical journey from basic Reactive Programming and Observer Pattern concepts to the main feature of RxJava, with code examples and a real-world app.\nYou will learn how to create an Observable “from scratch”, from a list or from a function you already have in your code base. You will learn how to filter an Observable sequence to create a new sequence containing only the values you want; you will learn how to apply a function to an Observable, how to concatenate or merge Observables. You will learn how to enjoy Schedulers to overcome the threading and concurrency hell in Android.\nI will close the talk with a practical example about RxJava + Retrofit, to easily communicate with a REST API."
+  "speakersId": [9],
+  "title": "Crash Wars: The handling awakens",
+  "description": "For years crash handling was one of the worst parts of the Android development process. With each new crash you were risking a lot - getting bad Google Play reviews, negative comments and dissatisfied customers. Nobody likes the \"Unfortunately, your app has crashed\" dialog, but there was only so much you could do about it, beside logging the crash to a remote server.\n\nIn the last couple of months a lot has changed. We've been introduced to brand new tools to help us cope with this problem. During this talk, we'll demonstrate how to use several tools and techniques that have made our lives easier. We'll discuss different ways of predicting crashes even before they occur by means of static code checkers, automatic tests and CI setup. Additionally, we'll show you how to detect memory leaks, explain advanced exception and crash logging by using a combination of several different tools. Finally,  we’ll demonstrate how to provide a better crash experience or hide the crash altogether if the crash is simply inevitable!"
 }, {
   "id": 5,
   "startAt": "2016-03-25 13:00",
@@ -44,15 +44,15 @@
   "duration": 50,
   "roomId": 1,
   "speakersId": [3],
-  "title": "Test Strategy for native Android and Web and what has changed at Skyscanner",
-  "description": "Skyscanner and its products have improved over the last year. The Android platform has changed significantly as well, and with it Skyscanner's approach to testing for both the web and native apps on Android.\n\nMatteo Doni (@todoleo) will summarise where Skyscanner was last year, what has changed and explore Test Strategy for the rapidly changing ecosystem. From internal test practices to release processes, crowd testing to analytics and dogfooding to automation, Matteo will deliver an overview of how Skyscanner delivers quality software in over 30 languages and working with over 1200 partners.\n\nHumor and the odd cat picture is guaranteed, time will be put aside for a Q&A session at the end. No goats were harmed in the preparation of this session."
+  "title": "Skyscanner moving from “Mobile First to Everything”",
+  "description": "Matteo will introduce Skyscanner, explain the product and business model, and look at what it means to be Mobile First.\n\nContext. Mobile users have a context which changes their needs, so being Mobile First opens up quite a complexity of needs.\n\nMatteo will walk you through how Skyscanner is moving from being Mobile First to Everything and explain how they are going about it."
 }, {
   "id": 7,
   "startAt": "2016-03-25 14:00",
   "duration": 60,
   "roomId": 2,
   "speakersId": [1, 11],
-  "title": "Workshop: Automated Performance Testing (1/2)",
+  "title": "Workshop: Automated Performance Testing (1/4)",
   "description": "This workshop will provide a guided, tutorial and hands-on coding experience. We will step you through adding performance testing features to an existing Android application.\n\nYou will create a stable and reusable testing harness to run performance tests on a simple existing Android app. The harness will automate the collection of information such as systrace logs, location requests, batterystats, graphics profiling, and more. Test failures will also be logged to files and we'll show you an example of how to write a performance-based test. Wow, that's a lot, right?! Don't worry we will be walking through this step by step, in an easy to understand and straightforward lead by example manner! !!حظا سعيدا :)\nWhat we'll learn together:\n\nHow to quickly navigate some Android Performance tools\nHow the Espresso testing framework can be used to write unit and performance tests\nHow to use MonkeyRunner and Gradle to automate the testing workflow\nHow to review systrace output to understand your app’s performance issues\nWhat are battery statistics\nWhat is graphics profiling\n\nThis workshop will take about 2 hours in total. You will be required to bring your own laptop. Having Android Studio IDE pre-installed and having downloaded the latest build tools and Android SDK.\n\nThe workshop will be managed by Google Developer Expert Paul Blundell and Xavi Rigau"
 }, {
   "id": 8,
@@ -68,23 +68,23 @@
   "duration": 60,
   "roomId": 2,
   "speakersId": [11, 1],
-  "title": "Workshop: Automated Performance Testing (2/2)",
+  "title": "Workshop: Automated Performance Testing (2/4)",
   "description": "This workshop will provide a guided, tutorial and hands-on coding experience. We will step you through adding performance testing features to an existing Android application.\n\nYou will create a stable and reusable testing harness to run performance tests on a simple existing Android app. The harness will automate the collection of information such as systrace logs, location requests, batterystats, graphics profiling, and more. Test failures will also be logged to files and we'll show you an example of how to write a performance-based test. Wow, that's a lot, right?! Don't worry we will be walking through this step by step, in an easy to understand and straightforward lead by example manner! !!حظا سعيدا :)\nWhat we'll learn together:\n\nHow to quickly navigate some Android Performance tools\nHow the Espresso testing framework can be used to write unit and performance tests\nHow to use MonkeyRunner and Gradle to automate the testing workflow\nHow to review systrace output to understand your app’s performance issues\nWhat are battery statistics\nWhat is graphics profiling\n\nThis workshop will take about 2 hours in total. You will be required to bring your own laptop. Having Android Studio IDE pre-installed and having downloaded the latest build tools and Android SDK.\n\nThe workshop will be managed by Google Developer Expert Paul Blundell and Xavi Rigau"
 }, {
   "id": 10,
   "startAt": "2016-03-25 16:00",
   "duration": 50,
   "roomId": 1,
-  "speakersId": null,
-  "title": "Blackberry",
-  "description": null
+  "speakersId": [12],
+  "title": "State of Android Testing Support Library",
+  "description": "Testing in the Android Platform used to be hard, but not now.\n\nThe Android Testing Support Library provides an extensive framework for testing Android apps. In this talk we will go through the main features like the new instrumentation test runner. Then we will cover Espresso and advanced topics like espresso-intents and idling resources. Finally we will see UI Automator, testing framework suitable for cross-app functional UI testing across system and installed apps"
 }, {
   "id": 11,
   "startAt": "2016-03-25 16:00",
   "duration": 60,
   "roomId": 2,
   "speakersId": [1, 11],
-  "title": "Workshop: Automated Performance Testing (1/2)",
+  "title": "Workshop: Automated Performance Testing (3/4)",
   "description": "This workshop will provide a guided, tutorial and hands-on coding experience. We will step you through adding performance testing features to an existing Android application.\n\nYou will create a stable and reusable testing harness to run performance tests on a simple existing Android app. The harness will automate the collection of information such as systrace logs, location requests, batterystats, graphics profiling, and more. Test failures will also be logged to files and we'll show you an example of how to write a performance-based test. Wow, that's a lot, right?! Don't worry we will be walking through this step by step, in an easy to understand and straightforward lead by example manner! !!حظا سعيدا :)\nWhat we'll learn together:\n\nHow to quickly navigate some Android Performance tools\nHow the Espresso testing framework can be used to write unit and performance tests\nHow to use MonkeyRunner and Gradle to automate the testing workflow\nHow to review systrace output to understand your app’s performance issues\nWhat are battery statistics\nWhat is graphics profiling\n\nThis workshop will take about 2 hours in total. You will be required to bring your own laptop. Having Android Studio IDE pre-installed and having downloaded the latest build tools and Android SDK.\n\nThe workshop will be managed by Google Developer Expert Paul Blundell and Xavi Rigau"
 }, {
   "id": 12,
@@ -100,7 +100,7 @@
   "duration": 60,
   "roomId": 2,
   "speakersId": [11, 1],
-  "title": "Workshop: Automated Performance Testing (2/2)",
+  "title": "Workshop: Automated Performance Testing (4/4)",
   "description": "This workshop will provide a guided, tutorial and hands-on coding experience. We will step you through adding performance testing features to an existing Android application.\n\nYou will create a stable and reusable testing harness to run performance tests on a simple existing Android app. The harness will automate the collection of information such as systrace logs, location requests, batterystats, graphics profiling, and more. Test failures will also be logged to files and we'll show you an example of how to write a performance-based test. Wow, that's a lot, right?! Don't worry we will be walking through this step by step, in an easy to understand and straightforward lead by example manner! !!حظا سعيدا :)\nWhat we'll learn together:\n\nHow to quickly navigate some Android Performance tools\nHow the Espresso testing framework can be used to write unit and performance tests\nHow to use MonkeyRunner and Gradle to automate the testing workflow\nHow to review systrace output to understand your app’s performance issues\nWhat are battery statistics\nWhat is graphics profiling\n\nThis workshop will take about 2 hours in total. You will be required to bring your own laptop. Having Android Studio IDE pre-installed and having downloaded the latest build tools and Android SDK.\n\nThe workshop will be managed by Google Developer Expert Paul Blundell and Xavi Rigau"
 }, {
   "id": 14,
@@ -139,33 +139,33 @@
   "startAt": "2016-03-26 14:00",
   "duration": 50,
   "roomId": 1,
-  "speakersId": null,
-  "title": "Sky",
-  "description": null
+  "speakersId": [3],
+  "title": "Test Strategy for native Android and Web and what has changed at Skyscanner",
+  "description": "Skyscanner and its products have improved over the last year. The Android platform has changed significantly as well, and with it Skyscanner's approach to testing for both the web and native apps on Android.\n\nMatteo Doni (@todoleo) will summarise where Skyscanner was last year, what has changed and explore Test Strategy for the rapidly changing ecosystem. From internal test practices to release processes, crowd testing to analytics and dogfooding to automation, Matteo will deliver an overview of how Skyscanner delivers quality software in over 30 languages and working with over 1200 partners.\n\nHumor and the odd cat picture is guaranteed, time will be put aside for a Q&A session at the end. No goats were harmed in the preparation of this session."
 }, {
   "id": 19,
   "startAt": "2016-03-26 15:00",
   "duration": 50,
   "roomId": 1,
-  "speakersId": [12],
-  "title": "State of Android Testing Support Library",
-  "description": "Testing in the Android Platform used to be hard, but not now.\n\nThe Android Testing Support Library provides an extensive framework for testing Android apps. In this talk we will go through the main features like the new instrumentation test runner. Then we will cover Espresso and advanced topics like espresso-intents and idling resources. Finally we will see UI Automator, testing framework suitable for cross-app functional UI testing across system and installed apps"
+  "speakersId": null,
+  "title": "Building Secure Android Apps for the Enterprise",
+  "description": "Blackberry"
 }, {
   "id": 20,
   "startAt": "2016-03-26 16:00",
   "duration": 50,
   "roomId": 1,
-  "speakersId": [9],
-  "title": "Crash Wars: The handling awakens",
-  "description": "For years crash handling was one of the worst parts of the Android development process. With each new crash you were risking a lot - getting bad Google Play reviews, negative comments and dissatisfied customers. Nobody likes the \"Unfortunately, your app has crashed\" dialog, but there was only so much you could do about it, beside logging the crash to a remote server.\n\nIn the last couple of months a lot has changed. We've been introduced to brand new tools to help us cope with this problem. During this talk, we'll demonstrate how to use several tools and techniques that have made our lives easier. We'll discuss different ways of predicting crashes even before they occur by means of static code checkers, automatic tests and CI setup. Additionally, we'll show you how to detect memory leaks, explain advanced exception and crash logging by using a combination of several different tools. Finally,  we’ll demonstrate how to provide a better crash experience or hide the crash altogether if the crash is simply inevitable!"
+  "speakersId": [8],
+  "title": "Android Reactive Programming with RxJava",
+  "description": "In a world where there is a smartphone in every pocket, designing and building applications that can run smoothly and deliver the User Experience that users deserve it’s the only way to go. Reactive Programming with RxJava will help you to beat Android Platform limitations to create astonishing Android Apps.\nThis talk will be a practical journey from basic Reactive Programming and Observer Pattern concepts to the main feature of RxJava, with code examples and a real-world app.\nYou will learn how to create an Observable “from scratch”, from a list or from a function you already have in your code base. You will learn how to filter an Observable sequence to create a new sequence containing only the values you want; you will learn how to apply a function to an Observable, how to concatenate or merge Observables. You will learn how to enjoy Schedulers to overcome the threading and concurrency hell in Android.\nI will close the talk with a practical example about RxJava + Retrofit, to easily communicate with a REST API."
 }, {
   "id": 21,
   "startAt": "2016-03-26 17:00",
   "duration": 50,
   "roomId": 1,
-  "speakersId": null,
-  "title": "Fujitsu",
-  "description": null
+  "speakersId": [14],
+  "title": "Public key Pinning",
+  "description": "We are living in a connected world. Services as Facebook, Twitter, Instagram allow us to share our status and selfies with our friends and followers. But what if the app is connected to a pirate server which stoles our information? Public Key Pinning will prevent our app to send our credentials to the hackers.\n\nIt works the follow way: with the use of Volley and by modifying HurlStack, the app will embed the public key of the server on it. Then each time the app connects to the server by SSL, the public key from the certificate will be checked in order to verify the server is correct. This will prevent attacks like \"Man in middle\", which the hacker generate a seem-to-valid SSL certificate to obtain the Facebook or bank credentials."
 }, {
   "id": 22,
   "startAt": "2016-03-26 18:00",

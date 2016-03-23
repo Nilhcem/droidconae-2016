@@ -115,4 +115,13 @@
   "twitter": "oubaiabbasi",
   "github": null,
   "photo": "http://droidcon.ae/sites/global.droidcon.cod.newthinking.net/files/styles/profile_default/public/media/pictures/1915466_10208199275077202_5721652902964695084_n.jpg?itok=IQZQWely"
+}, {
+  "id": 14,
+  "name": "Jiahao Liu",
+  "title": "Android Engineer, Dubizzle",
+  "bio": "We are living in a connected world. Services as Facebook, Twitter, Instagram allow us to share our status and selfies with our friends and followers. But what if the app is connected to a pirate server which stoles our information? Public Key Pinning will prevent our app to trust to any pirate servers.",
+  "website": "http://www.jiahaoliuliu.com/",
+  "twitter": "jiahaoliuliu",
+  "github": "jiahaoliuliu",
+  "photo": "http://droidcon.ae/sites/global.droidcon.cod.newthinking.net/files/styles/profile_default/public/media/pictures/Screen%20Shot%202016-03-23%20at%204.53.16%20PM.png?itok=83s2FX-l"
 }]
