@@ -144,6 +144,14 @@
   "description": "Skyscanner and its products have improved over the last year. The Android platform has changed significantly as well, and with it Skyscanner's approach to testing for both the web and native apps on Android.\n\nMatteo Doni (@todoleo) will summarise where Skyscanner was last year, what has changed and explore Test Strategy for the rapidly changing ecosystem. From internal test practices to release processes, crowd testing to analytics and dogfooding to automation, Matteo will deliver an overview of how Skyscanner delivers quality software in over 30 languages and working with over 1200 partners.\n\nHumor and the odd cat picture is guaranteed, time will be put aside for a Q&A session at the end. No goats were harmed in the preparation of this session."
 }, {
   "id": 19,
+  "startAt": "2016-03-26 14:00",
+  "duration": 60,
+  "roomId": 2,
+  "speakersId": [6, 13],
+  "title": "Workshop: Android N hands-on (1/2)",
+  "description": "Android N Preview was announced on 9th of March. Join us in this workshop to go hands-on with some of the latest features for developers released in this version. We'll be going over:\n\n* Multi-window support\n* Notification enhancements\n* Quick Settings Tile API\n* Multi-locale support\n* Scoped directory access"
+}, {
+  "id": 20,
   "startAt": "2016-03-26 15:00",
   "duration": 50,
   "roomId": 1,
@@ -151,7 +159,15 @@
   "title": "Building Secure Android Apps for the Enterprise",
   "description": "Blackberry"
 }, {
-  "id": 20,
+  "id": 21,
+  "startAt": "2016-03-26 15:00",
+  "duration": 50,
+  "roomId": 2,
+  "speakersId": [13, 6],
+  "title": "Workshop: Android N hands-on (2/2)",
+  "description": "Android N Preview was announced on 9th of March. Join us in this workshop to go hands-on with some of the latest features for developers released in this version. We'll be going over:\n\n* Multi-window support\n* Notification enhancements\n* Quick Settings Tile API\n* Multi-locale support\n* Scoped directory access"
+}, {
+  "id": 22,
   "startAt": "2016-03-26 16:00",
   "duration": 50,
   "roomId": 1,
@@ -159,7 +175,7 @@
   "title": "Android Reactive Programming with RxJava",
   "description": "In a world where there is a smartphone in every pocket, designing and building applications that can run smoothly and deliver the User Experience that users deserve it’s the only way to go. Reactive Programming with RxJava will help you to beat Android Platform limitations to create astonishing Android Apps.\nThis talk will be a practical journey from basic Reactive Programming and Observer Pattern concepts to the main feature of RxJava, with code examples and a real-world app.\nYou will learn how to create an Observable “from scratch”, from a list or from a function you already have in your code base. You will learn how to filter an Observable sequence to create a new sequence containing only the values you want; you will learn how to apply a function to an Observable, how to concatenate or merge Observables. You will learn how to enjoy Schedulers to overcome the threading and concurrency hell in Android.\nI will close the talk with a practical example about RxJava + Retrofit, to easily communicate with a REST API."
 }, {
-  "id": 21,
+  "id": 23,
   "startAt": "2016-03-26 17:00",
   "duration": 50,
   "roomId": 1,
@@ -167,7 +183,7 @@
   "title": "Public key Pinning",
   "description": "We are living in a connected world. Services as Facebook, Twitter, Instagram allow us to share our status and selfies with our friends and followers. But what if the app is connected to a pirate server which stoles our information? Public Key Pinning will prevent our app to send our credentials to the hackers.\n\nIt works the follow way: with the use of Volley and by modifying HurlStack, the app will embed the public key of the server on it. Then each time the app connects to the server by SSL, the public key from the certificate will be checked in order to verify the server is correct. This will prevent attacks like \"Man in middle\", which the hacker generate a seem-to-valid SSL certificate to obtain the Facebook or bank credentials."
 }, {
-  "id": 22,
+  "id": 24,
   "startAt": "2016-03-26 18:00",
   "duration": 30,
   "roomId": 0,
