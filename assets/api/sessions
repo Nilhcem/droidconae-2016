@@ -155,9 +155,9 @@
   "startAt": "2016-03-26 15:00",
   "duration": 50,
   "roomId": 1,
-  "speakersId": null,
+  "speakersId": [15],
   "title": "Building Secure Android Apps for the Enterprise",
-  "description": "Blackberry"
+  "description": "Developing apps for enterprise can be a challenge as enterprise-grade applications are more than just app code. Enterprise apps operate in a container of their own where security is a forethought not bolted on, connecting to corporate assets which resides behind the firewall, thus protecting Data-at-Rest on mobile devices and securing Data-in-Transport becomes inevitable. Enterprise apps are manageable, deployed not downloaded and controlled by corporate IT rules and policies.\n\nIn this session, we will also walk you through current trends, the four pillars of enterprise app development, and how BlackBerry® Enterprise Service 12 (BES12) provides the most secure and flexible ways to manage Android apps on android smartphones and tablets regardless of how enterprises choose to manage Android devices – Android for work, Samsung KNOX or Secure Work Space (SWS)."
 }, {
   "id": 21,
   "startAt": "2016-03-26 15:00",
